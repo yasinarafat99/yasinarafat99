@@ -44,8 +44,8 @@ I'm a passionate Frontend Developer based in Dhaka, Bangladesh. I love building 
 ## 🛠️ Projects
 
 
-1. [Project 1](https://github.com/yourusername/project1) - Description of Project 1
-2. [Project 2](https://github.com/yourusername/project2) - Description of Project 2
+1. [Tasbih Web App](https://github.com/yasinarafat99/Tasbih-web-app)
+2. [Todo](https://github.com/yasinarafat99/-Task-Management-Application-)
 
 Feel free to explore my repositories and collaborate on exciting projects! 😊
 
